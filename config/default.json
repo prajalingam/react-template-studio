@@ -1,0 +1,7 @@
+{
+    // "mongoURI": "mongodb+srv://root:cybersec@localhost:27017/template?retryWrites=true&w=majority",
+    "mongoURI": "mongodb+srv://pamsix:pamsix123@mernapp-r1fre.mongodb.net/test?retryWrites=true&w=majority",
+    "jwtSecretToken": "uf9a1EiCmJ1qJwG",
+    "githubClientID": "d00ff8bd73e9a7bf1d4b",
+    "githubSecret": "dd423162a940389e4ef5b056725cbd2b8dd112bb"
+}
